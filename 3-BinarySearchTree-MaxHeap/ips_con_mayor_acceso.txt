@@ -1,0 +1,5 @@
+IP: 10.15.176.241 - Frecuency: 38
+IP: 10.15.187.246 - Frecuency: 38
+IP: 10.15.176.230 - Frecuency: 37
+IP: 10.15.177.224 - Frecuency: 37
+IP: 10.15.183.241 - Frecuency: 37
